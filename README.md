@@ -1,6 +1,6 @@
 ### Hello fellas 👋
 
-- 💬 How to reach me: 
+- Linkedin: 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-KirilIvanov-grey?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiril-d-ivanov/)](https://www.linkedin.com/in/kiril-d-ivanov)
 
 ---
